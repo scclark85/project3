@@ -33,7 +33,7 @@ The goal of this project is to help parents understand video game ratings and sc
 
   
 * React for rendering the site
-* Heroku for site deployment
+* Heroku for site deployment.  Click to check out [here](https://banana-cupcake-16306.herokuapp.com/).
 * W3.CSS - W3 schools css framework
 
 ## Mock ups
